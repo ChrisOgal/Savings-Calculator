@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\bin\Debug\Interest Compounder.exe
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\bin\Debug\Interest Compounder.exe.config
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest_Compounder.Form1.resources
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest_Compounder.Properties.Resources.resources
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest Compounder.csproj.GenerateResource.cache
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest Compounder.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest Compounder.exe
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest Compounder.pdb
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\bin\Debug\Interest Compounder.pdb
+C:\Users\chris\Documents\School\C#  projects\Interest Compounder\Interest Compounder\obj\Debug\Interest Compounder.csprojAssemblyReference.cache
